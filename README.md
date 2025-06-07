@@ -1,9 +1,9 @@
 # asaad
-<!DOCTYPE html>
+<ALAFIS INTERNET PAGE>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>How to Make Tea</title>
+    <title>WELCOME TO THE NEW INTERNT PAGE OD ALALFIS</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -31,18 +31,18 @@
     </style>
 </head>
 <body>
-    <h1>How to Make a Perfect Cup of Tea</h1>
+    <h1>WE ARE THE ONLZ ONES WHO WANTS TO WIN</h1>
 
     <div class="instructions">
         <ol>
-            <li>Boil water.</li>
-            <li>Place a tea bag in your cup.</li>
-            <li>Pour the hot water over the tea bag.</li>
-            <li>Let it steep for 3–5 minutes.</li>
-            <li>Remove the tea bag and enjoy!</li>
+            <li>ASAAD.</li>
+            <li>IBRAHIM.</li>
+            <li>MUSA.</li>
+            <li>ABDULLA.</li>
+            <li>KHALAF!</li>
         </ol>
     </div>
 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Cup_of_tea_with_milk.jpg/640px-Cup_of_tea_with_milk.jpg" alt="Cup of tea">
+    <img src="https://image.cdn2.seaart.ai/2023-06-08/32221499859013/69f4257c7fe5d635de6a1539f4ac2b746809da2f_high.webp">
 </body>
 </html>
