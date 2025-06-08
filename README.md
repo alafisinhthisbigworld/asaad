@@ -1,54 +1,109 @@
-# asaad
-<ALAFIS INTERNET PAGE>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>WELCOME TO THE NEW INTERNT PAGE OD ALALFIS</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f8ff;
-            text-align: center;
-            padding: 40px;
-        }
-        h1 {
-            color: #333;
-        }
-        .instructions {
-            background-color: #ffffff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px #ccc;
-            max-width: 600px;
-            margin: 0 auto;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 8px;
-            margin-top: 20px;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background: #f0f0f0;
+    }
+    header {
+      text-align: center;
+      padding: 20px;
+    }
+    .paragraphs {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+    }
+    .gallery, .videos {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+      padding: 20px;
+    }
+    .gallery img, .videos iframe {
+      width: 300px;
+      height: auto;
+      border-radius: 8px;
+    }
+    .videos iframe {
+      height: 200px;
+    }
+    .login {
+      max-width: 300px;
+      margin: 30px auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+    }
+    .login input {
+      width: 100%;
+      padding: 8px;
+      margin: 10px 0;
+    }
+    .login button {
+      width: 100%;
+      padding: 10px;
+      background: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+    }
+    .search-bar {
+      text-align: center;
+      margin: 20px;
+    }
+    .search-bar input {
+      padding: 8px;
+      width: 300px;
+    }
+  </style>
 </head>
 <body>
-    <h1>WE ARE THE ONLZ ONES WHO WANTS TO WIN</h1>
 
-    <div class="instructions">
-        <ol>
-            <li>ASAAD.</li>
-            <li>IBRAHIM.</li>
-            <li>MUSA.</li>
-            <li>ABDULLA.</li>
-            <li>KHALAF!</li>
-        </ol>
-    </div>
-<iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
-    title="YouTube video player" frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-</iframe>
+<header>
+  <h1>Welcome to My Website</h1>
+</header>
 
-    <img src="https://image.cdn2.seaart.ai/2023-06-08/32221499859013/69f4257c7fe5d635de6a1539f4ac2b746809da2f_high.webp">
+<div class="search-bar">
+  <input type="text" placeholder="Search...">
+</div>
+
+<section class="paragraphs">
+  <p>Paragraph 1: This is the first paragraph. You can write any content you want here.</p>
+  <p>Paragraph 2: Here's some more text for the second paragraph.</p>
+  <p>Paragraph 3: Add interesting information or updates here.</p>
+</section>
+
+<section class="gallery">
+  <img src="https://via.placeholder.com/300" alt="Image 1">
+  <img src="https://via.placeholder.com/300" alt="Image 2">
+  <img src="https://via.placeholder.com/300" alt="Image 3">
+  <img src="https://via.placeholder.com/300" alt="Image 4">
+  <img src="https://via.placeholder.com/300" alt="Image 5">
+  <img src="https://via.placeholder.com/300" alt="Image 6">
+  <img src="https://via.placeholder.com/300" alt="Image 7">
+  <img src="https://via.placeholder.com/300" alt="Image 8">
+  <img src="https://via.placeholder.com/300" alt="Image 9">
+  <img src="https://via.placeholder.com/300" alt="Image 10">
+</section>
+
+<section class="videos">
+  <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/oHg5SJYRHA0" allowfullscreen></iframe>
+</section>
+
+<div class="login">
+  <h3>Login</h3>
+  <input type="text" placeholder="Username">
+  <input type="password" placeholder="Password">
+  <button>Login</button>
+</div>
+
 </body>
 </html>
