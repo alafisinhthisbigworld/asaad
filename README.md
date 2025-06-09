@@ -75,7 +75,22 @@
 </div>
 
 <section class="paragraphs">
-  <p>Paragraph 1: This is the first paragraph. You can write any content you want here.</p>
+  <p>PThe simple present tense is used to describe:
+
+Facts:
+– The sun rises in the east.
+– Water boils at 100°C.
+
+Habits and routines:
+– I go to work every day.
+– She drinks coffee in the morning.
+
+General truths:
+– Birds fly.
+– Fish live in water.
+
+Scheduled events (especially for transport):
+– The train leaves at 6 p.m.</p>
   <p>Paragraph 2: Here's some more text for the second paragraph.</p>
   <p>Paragraph 3: Add interesting information or updates here.</p>
 </section>
